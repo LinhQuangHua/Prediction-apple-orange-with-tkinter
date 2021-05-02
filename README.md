@@ -8,6 +8,8 @@ With IDE, you can use VScode or Pycharm. **Don't forget install Python.exe**.
 
 we are going to use a supervised machine learning algorithm, which utilizes a known dataset (referred to as the training dataset) to predict future events.
 
+![Intrduce](https://github.com/LinhQuangHua/Prediction-apple-orange-with-tkinter/blob/master/doc/introduce.jpg)
+
 Here is a general flow of the supervised learning recipe:
 
 -   Gather training data
@@ -45,13 +47,13 @@ Let’s say that the new fruit is smooth and weighs 120 grams. Remember that we 
 
 Let’s see if our ML algorithm can make such a prediction:
 
-
+![Predict](https://github.com/LinhQuangHua/Prediction-apple-orange-with-tkinter/blob/master/doc/predict%20apple%20orange.png.jpg)
 
 It works!
 
-I use condition show result text:
+I use conditional statement show result text:
 
-
+![Condition](https://github.com/LinhQuangHua/Prediction-apple-orange-with-tkinter/blob/master/doc/condition.jpg)
 
 The output is what we expected:  **0**  (apple).
 
